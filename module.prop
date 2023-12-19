@@ -1,0 +1,6 @@
+id=Lineagedebloater
+name=LineageOS Debloater
+version=v1.0.0
+versionCode=1
+author=KneesDev
+description=Uninstall applications that come with AOSP and LineageOS.
