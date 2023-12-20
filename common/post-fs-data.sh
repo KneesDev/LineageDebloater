@@ -1,2 +1,15 @@
 #!/system/bin/sh
-alias un='pm uninstall --user 0' ; un org.lineageos.audiofx; un org.lineageos.aperture ; un com.caf.fmradio ; un org.lineageos.recorder ; un org.lineageos.jelly ; un com.android.calculator2 ; un org.lineageos.etar ; un com.android.deskclock ; un com.android.contacts ; un com.android.stk ; un com.android.gallery3d ; un com.android.messaging ; un org.lineageos.eleven ; un com.android.dialer
+pm uninstall --user 0 org.lineageos.audiofx
+pm uninstall --user 0 org.lineageos.aperture
+pm uninstall --user 0 com.caf.fmradio
+pm uninstall --user 0 org.lineageos.recorder
+pm uninstall --user 0 org.lineageos.jelly
+pm uninstall --user 0 com.android.calculator2
+pm uninstall --user 0 org.lineageos.etar
+pm uninstall --user 0 com.android.deskclock
+pm uninstall --user 0 com.android.contacts
+pm uninstall --user 0 com.android.stk
+pm uninstall --user 0 com.android.gallery3d
+pm uninstall --user 0 com.android.messaging
+pm uninstall --user 0 org.lineageos.eleven
+pm uninstall --user 0 com.android.dialer
